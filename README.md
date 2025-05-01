@@ -52,6 +52,6 @@ The priority for the ticket was upgraded to "Emergency" due to the user not bein
 ![image](https://github.com/user-attachments/assets/f66a5bf7-4b05-4422-bd64-c6de5ec5f2e4)
 
 
-In this case, help desk support notified sys admins and Danny Jones, the computer tech, due to the severity of potentioal business production issues. An internal note was submitted to inform fellow workers of the user being upset and impatient about the issue at hand. It was confirmed that Danny arrived an confirmed BSOD (Blue screen of death) as the issue and fixed the faulty hardware causing BSOD. Ticket was resolved. 
+In this case, help desk support notified sys admins and Danny Jones, the computer tech, due to the severity of potentioal business production issues. An internal note was submitted to inform fellow workers of the user being upset and impatient about the issue at hand. It was confirmed that Danny arrived and confirmed BSOD (Blue screen of death) as the issue and fixed the faulty hardware causing BSOD. Ticket was resolved. 
 
 
